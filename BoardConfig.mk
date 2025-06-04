@@ -147,3 +147,6 @@ TW_NO_BIND_SYSTEM := true
 TW_USE_MODEL_HARDWARE_ID_FOR_DEVICE_ID := true
 TW_USE_SAMSUNG_HAPTICS := true
 TW_BACKUP_EXCLUSIONS := /data/fonts
+
+# set flashlight path
+OF_FL_PATH1 := /system/flashlight
